@@ -1,16 +1,33 @@
-## Hi there 👋
+ Hi, I'm Surbhi 
 
-<!--
-**surbhibadhe/surbhibadhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student at DESPU
+🤖 Passionate about Machine Learning, Generative AI, and Data Analytics
 
-Here are some ideas to get you started:
+ Tech Stack - 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* SQL
+* Machine Learning
+* Django
+* Tableau
+* Generative AI
+
+Featured Projects
+
+ 🛒 E-Commerce Recommendation System
+Built a recommendation engine using clustering and cosine similarity for personalized product suggestions.
+
+ 📊 FMCG Sales Demand Analysis
+Analyzed FMCG sales trends using Python, SQL, and Tableau to generate business insights.
+
+ 🤖 Generative AI Projects
+Exploring LLM applications, LangChain workflows, and AI-powered solutions.
+
+Currently Learning
+* Retrieval-Augmented Generation (RAG)
+* Production ML pipelines
+* Advanced recommendation systems
+
+Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/surbhi-badhe/)
