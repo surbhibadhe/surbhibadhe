@@ -1,13 +1,13 @@
  Hi, I'm Surbhi 
 
 🎓 B.Tech Computer Science Student at DESPU
-🤖 Passionate about Machine Learning, Generative AI, and Data Analytics
+🤖 Passionate about Backend Development, Machine Learning and Generative AI
 
  Tech Stack - 
 
 * Python
 * SQL
-* Machine Learning
+* JavaScript 
 * Django
 * Tableau
 * Generative AI
@@ -20,13 +20,10 @@ Built a recommendation engine using clustering and cosine similarity for persona
  📊 FMCG Sales Demand Analysis
 Analyzed FMCG sales trends using Python, SQL, and Tableau to generate business insights.
 
- 🤖 Generative AI Projects
-Exploring LLM applications, LangChain workflows, and AI-powered solutions.
-
 Currently Learning
-* Retrieval-Augmented Generation (RAG)
-* Production ML pipelines
-* Advanced recommendation systems
+* System Design 
+* Advanced Backend concepts
+* Production ML pipelines  
 
 Connect With Me
 
